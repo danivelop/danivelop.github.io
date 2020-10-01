@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$skip\" is never used in operation \"paginateQuery\".","locations":[{"line":2,"column":3}]},{"message":"Variable \"$limit\" is never used in operation \"paginateQuery\".","locations":[{"line":3,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"limit":3,"skip":3,"numPages":3,"currentPage":2}}
